@@ -9,7 +9,6 @@ public class Addition_input
       a=s.nextInt();
       b=s.nextInt();
       c=a+b;
-      s.close();
       System.out.println(c);
       
     }
